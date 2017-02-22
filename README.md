@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 22, 2017
 
 ### Student Name:  
-(First and Last Name)
+Helei Gomariz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was about writing code for more complex number sequences.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://heleirious.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. if statement --> An if statement is a decision making statement used to express a specific code contained withing brackets.
+2. if/else statement --> This is a decision making statement that will do one thing if the result is true and another if it is false.
+3. nested statement --> A statement contained within a statement, an if within an if/else or an if/else within an if.
